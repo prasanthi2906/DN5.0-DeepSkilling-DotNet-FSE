@@ -8,7 +8,7 @@ Implement the Singleton Design Pattern to ensure that a logging utility class ha
 
 ## Question
 
-![Singleton Pattern Question](Screenshots/01_Singleton_Question.png)
+![Question](01_Singleton_Question.png)
 
 ---
 
